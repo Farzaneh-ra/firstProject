@@ -16,7 +16,8 @@ public class factorialWhile {
         System.out.println(fact);
         System.out.println("This is *Farzan1* feature");
         System.out.println("This is *Farzan2* feature");
-        System.out.println("This is *Farzan4* feature");
+
+        System.out.println("This is *Farzan5* feature");
     }
 
 }
